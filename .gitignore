@@ -1,4 +1,4 @@
 #git ignore list
 *.temp
 README
-/.node_module
+/node_modules
