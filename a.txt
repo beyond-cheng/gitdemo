@@ -1,1 +1,3 @@
 new file form A
+
+add some content form FeatureA
