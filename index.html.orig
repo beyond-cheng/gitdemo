@@ -5,7 +5,11 @@ after the first tag
 master modifiled
 test modifiled
 new update
+<<<<<<< HEAD
+this is new branch
+=======
 
 change form A to FeatureB
 
+>>>>>>> featureB
 <p>index!</p>
